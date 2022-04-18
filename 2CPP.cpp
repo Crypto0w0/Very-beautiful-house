@@ -1,17 +1,17 @@
 ﻿#include <iostream>
 using namespace std;
 int main(){
-	cout << "                                      888                     \n";
-	cout << "                                        888                   \n";
-	cout << "                                         888                  \n";
-	cout << "                                          8888                \n";
-	cout << "                                            8888              \n";
-	cout << "                                           8888               \n";
-	cout << "                                         88888                \n";
-	cout << "                                      8888                    \n";
-	cout << "                                    888                       \n";
-	cout << "                                  888                         \n";
-	cout << "                               ___88                          \n";
+   cout << "                                      888                     \n";
+   cout << "                                        888                   \n";
+   cout << "                                         888                  \n";
+   cout << "                                          8888                \n";
+   cout << "                                            8888              \n";
+   cout << "                                           8888               \n";
+   cout << "                                         88888                \n";
+   cout << "                                      8888                    \n";
+   cout << "                                    888                       \n";
+   cout << "                                  888                         \n";
+   cout << "                               ___88                          \n";
    cout << "                 ______________|   |___                        \n";
    cout << "                /\\            |   |   \\                      \n";
    cout << "               /  \\           |   |    \\                     \n";
